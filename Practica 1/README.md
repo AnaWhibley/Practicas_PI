@@ -1,6 +1,7 @@
 # Práctica 1
 
 Práctica en lenguaje ensamblador simulada en el simulador PCSpim versión 8 que simula la arquitectura MIPS-32.
+
 Se incluye:
 
   - Informe completo de la realización de la práctica y los enunciados correspondientes a las tareas y a la práctica. Así como los objetivos y las competencias.
